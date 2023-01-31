@@ -33,6 +33,6 @@ Github Stats
 
 <br>
 
-### *Que nuestra canción no deje de latir*
+### *나에게 코딩은 살인이다.*
 
 </div>
